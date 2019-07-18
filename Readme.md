@@ -5,6 +5,9 @@ Especially for Cohort 8.0, because I think you need this.
 
 Fork, clone, load into Visual Studio Code.
 open "View -> Integrated Terminal",
+
+`npm install`
+
 and type "ionic lab" at the shell prompt.
 
 It should open a browser, and start the app within the window.
